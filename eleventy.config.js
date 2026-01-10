@@ -21,6 +21,10 @@ import filters from './src/_config/filters.js';
 import plugins from './src/_config/plugins.js';
 import shortcodes from './src/_config/shortcodes.js';
 
+import embedEverything from 'eleventy-plugin-embed-everything';
+
+
+
 export default async function (eleventyConfig) {
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
@@ -68,6 +72,7 @@ export default async function (eleventyConfig) {
       pictureAttributes: {}
     }
   });
+  eleventyConfig.addPlugin(embedEverything);
 
   // ---------------------  bundle
   eleventyConfig.addBundle('css', {hoist: true});
