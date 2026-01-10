@@ -4,6 +4,7 @@ description: 'A 301 is used when a page has permanently changed location. Inform
 date: 2022-08-28
 tags: ['redirects', 'feature']
 redirectFrom: ['/old-route/', '/optionally-another-old-route/']
+eleventyExcludeFromCollections: true
 ---
 
 URLs usually change over time, as you use another CMS or optimize your file structure.

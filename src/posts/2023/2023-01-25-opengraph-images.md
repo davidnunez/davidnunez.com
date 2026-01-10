@@ -5,6 +5,7 @@ date: 2023-01-25
 tags:
   - image
   - feature
+eleventyExcludeFromCollections: true
 ---
 
 When you share your blog posts, a thumbnail image may appear - the image we define in our meta data as an Open Graph Image (`og:image`).
