@@ -1,0 +1,16 @@
+---
+id: 65ac4ceb0e7c79000119ac07
+title: Traveling to San Mateo
+feature_image:
+description: I’ll be at Maker Faire from Wednesday until Monday of next week… I’ll try to post some behind-the-scenes stories and event photos /…
+date: 2007-05-15
+full-date: 2007-05-15T17:39:25.000Z
+tags:
+  - posts
+slug: traveling-to-san-mateo
+type: post
+draft: true
+status:
+---
+
+I’ll be at [Maker Faire](http://www.makerfaire.com) from Wednesday until Monday of next week… I’ll try to post some behind-the-scenes stories and event photos / wrap-ups at the hotel nightly (Hilton Garden Inn – complimentary Internet! yay.)
