@@ -1,16 +1,17 @@
 ---
-id: 65ac4ceb0e7c79000119ac4f
+tags:
+  - posts
+id:
 title: "News Flash: Rita in Austin is not The Endtimes"
 feature_image:
 description: Maybe I’m a jerk for saying so and maybe this makes me the guy that plays the fiddle as his city burns down…
 date: 2005-09-21
 full-date: 2005-09-22T00:07:58.000Z
-tags:
-  - posts
 slug: news-flash-rita-in-austin-is-not-the-endtimes
 type: post
 draft: true
-status:
+status: done
+eleventyExcludeFromCollections: true
 ---
 
 Maybe I’m a jerk for saying so and maybe this makes me the guy that plays the fiddle as his city burns down…

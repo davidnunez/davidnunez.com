@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac06
+tags:
+  - posts
+id:
 title: Maker Faire Report
 feature_image:
 description: Landed at SFO yesterday morning and went directly to the san mateo fairgrounds.
 date: 2007-05-17
 full-date: 2007-05-17T08:00:23.000Z
-tags:
-  - posts
 slug: maker-faire-report
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Landed at SFO yesterday morning and went directly to the san mateo fairgrounds.

@@ -2,7 +2,7 @@
 tags:
   - posts
   - output/newsletter
-id: 65ac4ceb0e7c79000119abc7
+id:
 title: That New Computer Smell
 feature_image:
 description: Do you remember the way your first computer smelled?
@@ -10,6 +10,9 @@ date: 2021-04-25
 full-date: 2021-04-25T13:07:34.000-04:00
 slug: that-new-computer-smell
 type: post
+episode: 20
+draft: false
+status: done
 ---
 
 Do you remember the way your first computer smelled?

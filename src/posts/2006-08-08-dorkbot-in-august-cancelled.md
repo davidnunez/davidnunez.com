@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac2c
+tags:
+  - posts
+id:
 title: Dorkbot in August cancelled
 feature_image:
 description: Please accept our humble apologies, but Dorkbot is cancelled for August. We will not be holding dorkbot this Thursday.
 date: 2006-08-08
 full-date: 2006-08-08T05:08:57.000Z
-tags:
-  - posts
 slug: dorkbot-in-august-cancelled
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Please accept our humble apologies, but [Dorkbot](http://www.dorkbot.org/dorkbotaustin) is cancelled for August. We will not be holding dorkbot this Thursday.

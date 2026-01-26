@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119ac38
+id:
 title: Austin gets meshed
 feature_image:
 description: I predicted something in 2003 that finally tipped.
@@ -9,8 +9,8 @@ date: 2006-04-27
 full-date: 2006-04-28T03:39:00.000Z
 slug: austin-gets-meshed
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 I predicted something in 2003 that finally tipped.

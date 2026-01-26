@@ -9,7 +9,7 @@ tags:
   - posts
 slug: skype-tip-voicemail-suddenly-stops-working-2
 type: post
-draft: true
+draft: false
 status:
 ---
 

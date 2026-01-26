@@ -9,7 +9,7 @@ date: 2007-11-01
 full-date: 2007-11-01T04:54:01.000Z
 slug: permalink-pages-looking-all-weird
 type: post
-draft: true
+draft: false
 ---
 
 Not done converting, yet. Relax.

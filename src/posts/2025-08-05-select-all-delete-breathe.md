@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 68b22bac9c50460001617ab0
+id:
 title: Select All. Delete. Breathe.
 feature_image:
 description: I’ve accumulated a mountain of digital clutter. We’re talking hundreds of thousands of files scattered across old hard drives, floppy…
@@ -9,6 +9,8 @@ date: 2025-08-05
 full-date: 2025-08-05T18:47:00.000-04:00
 slug: select-all-delete-breathe
 type: post
+status: done
+draft: false
 ---
 
 ![](./images/s-j-yJVpnfqu8GY-unsplash-2.jpg)

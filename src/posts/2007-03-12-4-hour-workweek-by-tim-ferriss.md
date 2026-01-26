@@ -9,7 +9,7 @@ tags:
   - posts
 slug: 4-hour-workweek-by-tim-ferriss
 type: post
-draft: true
+draft: false
 status:
 ---
 

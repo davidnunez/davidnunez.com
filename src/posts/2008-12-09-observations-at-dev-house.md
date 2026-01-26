@@ -9,7 +9,7 @@ date: 2008-12-09
 full-date: 2008-12-09T10:16:00.000Z
 slug: observations-at-dev-house
 type: post
-draft: true
+draft: false
 ---
 
 This Sunday I participated in DevHouse Boston. It was fantastic, exhausting, and maybe even inspiring.

@@ -9,7 +9,7 @@ tags:
   - posts
 slug: applescript-to-import-articles-into-devonthink-pro-and-del-icio-us-from-incoming-netnewswire-rss-streams
 type: post
-draft: true
+draft: false
 ---
 
 The applescript in this post will take the currently selected headline or tabbed article in NetNewsWire, prompt the user for tags about the article, and then create an HTML copy of the article in DEVONThink in a sub group.

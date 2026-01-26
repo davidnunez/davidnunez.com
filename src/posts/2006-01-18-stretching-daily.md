@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac49
+tags:
+  - posts
+id:
 title: Stretching Daily
 feature_image:
 description: Creativity is a skill that needs nourishment, practice, and brutal honesty.
 date: 2006-01-18
 full-date: 2006-01-19T01:41:17.000Z
-tags:
-  - posts
 slug: stretching-daily
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Creativity is a skill that needs nourishment, practice, and brutal honesty.
@@ -19,7 +19,7 @@ You can’t call yourself a “creative person” unless you are actually living
 
 You can’t do any of those things successfully, much less expect anyone to notice unless you share your work… and it is, indeed, work.
 
-<http://www.stretchdaily.com> – I met Mark last SxSW. His idea of creatively stretching, daily and holding himself accountable by sharing his results, is brilliant.
+[http://www.stretchdaily.com](https://web.archive.org/web/20060202160020/http://stretchdaily.com/) – I met Mark last SxSW. His idea of creatively stretching, daily and holding himself accountable by sharing his results, is brilliant.
 
 I’m going to steal his idea.
 

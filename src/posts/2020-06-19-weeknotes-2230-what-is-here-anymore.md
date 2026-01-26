@@ -9,6 +9,7 @@ date: 2020-06-19
 full-date: 2020-06-19T17:48:32.000-04:00
 slug: weeknotes-2230-what-is-here-anymore
 type: post
+draft: false
 ---
 
 ![](./images/photo-you-are-here.jpeg)

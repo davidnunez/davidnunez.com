@@ -9,7 +9,7 @@ date: 2007-03-08
 full-date: 2007-03-09T03:18:59.000Z
 slug: pre-pre-gathering-at-cedar-door
 type: post
-draft: true
+draft: false
 status:
 ---
 

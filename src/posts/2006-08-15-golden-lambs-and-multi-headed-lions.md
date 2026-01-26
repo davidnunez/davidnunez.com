@@ -1,16 +1,17 @@
 ---
-id: 65ac4ceb0e7c79000119ac28
+tags:
+  - posts
+id:
 title: Golden lambs and multi-headed lions
 feature_image:
 description: Not to get too political here… However, no matter which side of the fence you straddle, isn’t an ad all about how your opponent will make…
 date: 2006-08-15
 full-date: 2006-08-15T10:35:45.000Z
-tags:
-  - posts
 slug: golden-lambs-and-multi-headed-lions
 type: post
 draft: true
-status:
+status: done
+eleventyExcludeFromCollections: true
 ---
 
 Not to get too political here… However, no matter which side of the fence you straddle, isn’t an ad all about how your opponent will make you unsafe from terrorists a blatant example of “politicizing national security?”

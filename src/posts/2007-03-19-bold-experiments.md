@@ -9,7 +9,7 @@ tags:
   - posts
 slug: bold-experiments
 type: post
-draft: true
+draft: false
 status:
 ---
 

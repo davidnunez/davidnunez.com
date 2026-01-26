@@ -9,7 +9,7 @@ tags:
   - posts
 slug: applescript-to-transform-mail-app-message-to-gtdalt-inbox-item
 type: post
-draft: true
+draft: false
 status:
 ---
 

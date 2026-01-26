@@ -9,6 +9,7 @@ date: 2020-07-17
 full-date: 2020-07-17T17:24:53.000-04:00
 slug: weeknotes-2234-smashing-things-together
 type: post
+draft: false
 ---
 
 ![](./images/2020-07-17-airtable-1.png)
@@ -90,6 +91,6 @@ We ultimately need to reimagine how collection data are managed, honestly. We're
 
 > I've recently discovered the "study with me" genre on Youtube. Multiple hours of people just studying or doing work. Some have pomodoro timers & music.  
 > 
-> When I play one in the bkgrnd: peer pressure to focus, shhhh-we're-in-a-library, shared accomplishment... [#surrogateHumanity](https://twitter.com/hashtag/surrogateHumanity?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com)
+> When I play one in the bkgrnd: peer pressure to focus, shhhh-we're-in-a-library, shared accomplishment... [`#surrogateHumanity`](https://twitter.com/hashtag/surrogateHumanity?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com)
 >
 > — David Nuñez (@davidnunez) [July 13, 2020](https://twitter.com/davidnunez/status/1282723987986972672?ref_src=twsrc%5Etfw&ref=davidnunez.com)

@@ -9,6 +9,7 @@ date: 2020-08-05
 full-date: 2020-08-05T13:08:57.000-04:00
 slug: the-global-derealization
 type: post
+draft: false
 ---
 
 ![](./images/bruno-nascimento-9XTyIiFceKM-unsplash_o-1.jpg)
@@ -112,7 +113,7 @@ We can and do edit what we are experiencing online based on what we're consuming
 
 I hear voices in these videos. I'm surprised when I hear English, though I shouldn't be. Mostly, I hear and see a lot of "other" in these videos. I'm not proud of this.
 
-As I'm watching Twitter hashtags about #beirut, I'm choosing which threads to follow. I'm inventing stories about the videographers. I'm worried about them. Some vantage points do not seem survivable.
+As I'm watching Twitter hashtags about `#beirut`, I'm choosing which threads to follow. I'm inventing stories about the videographers. I'm worried about them. Some vantage points do not seem survivable.
 
 Of course, pre-COVID, if this explosion happened, I would still experience it through Twitter feeds on screens. I've never been to Beirut, and I don't know or understand its culture.
 

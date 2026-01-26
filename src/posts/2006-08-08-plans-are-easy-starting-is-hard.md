@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac2a
+tags:
+  - posts
+id:
 title: Plans are easy.  Starting is hard.
 feature_image:
 description: Starting is always the hardest part, dont you think? I definitely have a deep infection of plan-it-out syndrome.
 date: 2006-08-08
 full-date: 2006-08-08T22:11:47.000Z
-tags:
-  - posts
 slug: plans-are-easy-starting-is-hard
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Starting is always the hardest part, dont you think? I definitely have a deep infection of plan-it-out syndrome.

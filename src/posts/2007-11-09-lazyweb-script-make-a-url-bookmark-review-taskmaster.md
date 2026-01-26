@@ -9,7 +9,7 @@ tags:
   - posts
 slug: lazyweb-script-make-a-url-bookmark-review-taskmaster
 type: post
-draft: true
+draft: false
 ---
 
 I’m Reviewing a whole bunch of urls in a long txt file of collected urls and bookmarks.

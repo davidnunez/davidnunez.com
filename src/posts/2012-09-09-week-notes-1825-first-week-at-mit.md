@@ -31,7 +31,7 @@ It’s taking a bit of adjustment to get used to “false hurriedness” of acad
 
 The Media Lab is a bit of a strange place, though. There’s more of a maker culture here where innovation through building project-based results is incentivized. “Demo or Die” and “We Did it Here First” syndrome runs rampant. So get it done, first, then get it right, maybe later. I think it fits my temperament, actually. I’d rather make stuff than talk about making stuff. I’ll need to learn to love both, though, and to do both at a caliber I’ve never experienced to thrive here.
 
-I sat in a “High Graduate” level class at MIT CSAIL (a computer science / math class around folding algorithms (ex. origami or robot linkages)). I had some _de ja vous_ moments as it brought me right back to some of my more geekier days as an undergrad. I tweeted, “MIT CS/Math class reminded me of maladjusted classmates from undergrad. nerd universality is both comforting & terrific in its horror #metoo”
+I sat in a “High Graduate” level class at MIT CSAIL (a computer science / math class around folding algorithms (ex. origami or robot linkages)). I had some _de ja vous_ moments as it brought me right back to some of my more geekier days as an undergrad. I tweeted, “MIT CS/Math class reminded me of maladjusted classmates from undergrad. nerd universality is both comforting & terrific in its horror `#metoo`”
 
 On the other end of the spectrum, I also sat in an undergraduate class in the Brain and Cognitive science department (“Course 9” in MIT-speak). I felt **really** old. I’ll have to be very choosy on which lectures to hear and I don’t intend to do any the busy work designed to help undergrads learn to read, write, and talk. It’s MIT, after all… attracts a special breed of student.
 

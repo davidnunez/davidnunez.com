@@ -10,6 +10,8 @@ date: 2020-09-17
 full-date: 2020-09-17T21:44:00.000-04:00
 slug: time-is-weird-in-2020
 type: post
+draft: false
+episode: 6
 ---
 
 Time is weird in 2020, wouldn't you agree?
@@ -96,7 +98,7 @@ Then there's Twitter. My words there are like fireflies in a forest. Lit for a n
 
 ![](./images/1552d28d-4083-48b3-b5a6-605dbed5a5a7.jpg)
 
-I created a #zeitgeber channel in the museum's slack workspace, and for a while, some people joined me in there, writing their own notes. It was great to sync up my heartbeat with colleagues I might not ordinarily see during the day. Then COVID-19. Habits are difficult to keep. I see my colleagues even less, and sometimes I'm a firefly blip-blipping all alone in the forest.
+I created a `#zeitgeber` channel in the museum's slack workspace, and for a while, some people joined me in there, writing their own notes. It was great to sync up my heartbeat with colleagues I might not ordinarily see during the day. Then COVID-19. Habits are difficult to keep. I see my colleagues even less, and sometimes I'm a firefly blip-blipping all alone in the forest.
 
 I tried restarting my weeknotes habit on my website this summer and even managed to keep it up for a solid six weeks. [Weeknotes](https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0?ref=davidnunez.com) are great zeitgeber. There's a [community of weeknotes writers](https://weeknot.es/?ref=davidnunez.com), even, to help keep the beat. I have a strong sense of closure for the week when I publish weeknotes. It's been a useful marker for the weekend's start, no matter what "weekend" means these days.
 
@@ -125,5 +127,5 @@ _While writing this newsletter I was listening to "[Funny How Time Slips Away](h
 
 Photo credits
 
-* Jamie Zigelbaum #BurgerFriday
+* Jamie Zigelbaum `#BurgerFriday`
 * Potter GD, Skene DJ, Arendt J, Cade JE, Grant PJ, Hardie LJ. Circadian Rhythm and Sleep Disruption: Causes, Metabolic Consequences, and Countermeasures. _Endocr Rev_. 2016;37(6):584-608. doi:10.1210/er.2016-1083

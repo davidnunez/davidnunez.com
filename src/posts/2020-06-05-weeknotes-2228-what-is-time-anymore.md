@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119abb0
+id:
 title: "Weeknotes #2228 - What is time anymore?"
 feature_image:
 description: So let's get this part out of the way.
@@ -9,6 +9,8 @@ date: 2020-06-05
 full-date: 2020-06-05T17:38:38.000-04:00
 slug: weeknotes-2228-what-is-time-anymore
 type: post
+status: done
+draft: false
 ---
 
 ![](./images/hourglass.jpeg)
@@ -61,20 +63,14 @@ On to the weeknotes:
 * We're getting our roof redone. Footsteps overhead.
 * My favorite tweets of the week:
 
-> I was just about to tweet something on my phone and had to pause because I saw the prompt and honestly.... I don’t even know anymore. [pic.twitter.com/x3UhcodoiY](https://t.co/x3UhcodoiY?ref=davidnunez.com)
->
-> — David Nuñez (@davidnunez) [June 2, 2020](https://twitter.com/davidnunez/status/1267876981384916994?ref_src=twsrc%5Etfw&ref=davidnunez.com)
+https://twitter.com/davidnunez/status/1267876981384916994?ref_src=twsrc%5Etfw&ref=davidnunez.com
 
-> Invented a nice hack today to help me introduce a layer of focus in my current intention management tool ([#omnifocus](https://twitter.com/hashtag/omnifocus?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com)) The red dots mean "just get it done already! this week." Yellow means "2-4 weeks" I have OF perspectives for these. [#productivity](https://twitter.com/hashtag/productivity?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) [pic.twitter.com/kn6mzRVfqN](https://t.co/kn6mzRVfqN?ref=davidnunez.com)
->
-> — David Nuñez (@davidnunez) [June 3, 2020](https://twitter.com/davidnunez/status/1268312866962255874?ref_src=twsrc%5Etfw&ref=davidnunez.com)
+https://twitter.com/davidnunez/status/1268312866962255874?ref_src=twsrc%5Etfw&ref=davidnunez.com
 
 And of course this one that ultimately got me out of the nest:
 
-> Does anyone out there have a view on differences between [#weeknotes](https://twitter.com/hashtag/weeknotes?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) as described by [@genmon](https://twitter.com/genmon?ref_src=twsrc%5Etfw&ref=davidnunez.com) vs. personal email newsletters other than the delivery mechanism? (assuming it even matters, these days) [https://t.co/cpg5epi6l7](https://t.co/cpg5epi6l7?ref=davidnunez.com)
->
-> — David Nuñez (@davidnunez) [June 2, 2020](https://twitter.com/davidnunez/status/1267811306389807104?ref_src=twsrc%5Etfw&ref=davidnunez.com)
+https://twitter.com/davidnunez/status/1267811306389807104?ref_src=twsrc%5Etfw&ref=davidnunez.com
 
-This felt good to write, for what it's worth. I'll probably spend some more making hours this weekend doing some writing or tinkering here.  (I'm noticing links in bullet points above aren't getting styled, for example.) I'd like to figure out how to crosspost these to Medium so maybe I can join the [weeknot.es](https://weeknot.es/?ref=davidnunez.com) community.
+This felt good to write, for what it's worth. I'll probably spend some more making  hours this weekend doing some writing or tinkering here.  (I'm noticing links in bullet points above aren't getting styled, for example.) I'd like to figure out how to crosspost these to Medium so maybe I can join the [weeknot.es](https://weeknot.es/?ref=davidnunez.com) community.
 
-The clock has officially started. #momentum
+The clock has officially started. `#momentum`

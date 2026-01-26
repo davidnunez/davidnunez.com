@@ -9,7 +9,7 @@ tags:
   - posts
 slug: joel-greenbergs-dorkbot-podcast
 type: post
-draft: true
+draft: false
 status:
 ---
 

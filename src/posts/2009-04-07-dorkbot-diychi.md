@@ -9,7 +9,7 @@ tags:
   - posts
 slug: dorkbot-diychi
 type: post
-draft: true
+draft: false
 ---
 
 Tonight there is a [dorkbot-boston](http://web.archive.org/web/20100511000831/http://dorkbotboston.com:80/2009/04/02/dorkbot-diychi-2009/) as part of the [CHI2009](http://www.chi2009.org) conference.

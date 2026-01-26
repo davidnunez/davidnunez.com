@@ -10,6 +10,8 @@ date: 2020-12-07
 full-date: 2020-12-07T14:46:04.000-05:00
 slug: the-show-must-go-online
 type: post
+draft: false
+episode: 15
 ---
 
 I have a confession.

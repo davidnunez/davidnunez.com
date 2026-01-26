@@ -10,6 +10,8 @@ date: 2020-08-20
 full-date: 2020-08-20T15:11:00.000-04:00
 slug: touching-a-heartbeat
 type: post
+draft: false
+episode: 2
 ---
 
 I took the Apple Watch for a long walk last weekend. It did something unexpected and unattractive. I'm left wondering if I have any place for it in my heart, anymore.

@@ -9,7 +9,7 @@ tags:
   - posts
 slug: quix-useful-tweak-for-web-workflow
 type: post
-draft: true
+draft: false
 ---
 
 I learned about [Quix](http://www.quixapp.com/) today. It’s a bookmarklet-driven shortcut tool for web browsing and has LOTS of potential for shortcuts and helpful information processing workflow due to its built-in and custom command features.

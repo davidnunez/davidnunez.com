@@ -9,7 +9,7 @@ tags:
   - posts
 slug: rebooting-blog-yet-again
 type: post
-draft: true
+draft: false
 ---
 
 I was making a list of things I wanted to do with my personal website. Before SxSW I spent many hours getting the blog running [mephisto](http://www.mephistoblog.com), for no other reason than it’s written with Ruby on Rails. I wanted to eat my own dogfood, etc.

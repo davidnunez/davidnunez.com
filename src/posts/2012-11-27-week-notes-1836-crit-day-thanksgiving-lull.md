@@ -9,7 +9,7 @@ date: 2012-11-27
 full-date: 2012-11-27T07:32:00.000Z
 slug: week-notes-1836-crit-day-thanksgiving-lull
 type: post
-draft: true
+draft: false
 status:
 ---
 ![](./images/crit-day-sketches1.png)

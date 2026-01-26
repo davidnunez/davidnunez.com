@@ -2,7 +2,7 @@
 tags:
   - posts
   - output/newsletter
-id: 65ac4ceb0e7c79000119abcc
+id:
 title: "Austin, TX: Progress & Nostalgia"
 feature_image:
 description: I'm in Austin over the 4th of July weekend to visit family. Every time I come back to Texas I have incredibly mixed feelings about how this…
@@ -10,6 +10,9 @@ date: 2022-07-01
 full-date: 2022-07-01T13:50:00.000-04:00
 slug: austin-tx-progress-and-nostalgia
 type: post
+status: done
+draft: false
+episode: 22
 ---
 
 ![](./images/e1322084-6335-4132-980e-036a5586fe5d.png)
@@ -76,6 +79,16 @@ Two sides of the same coin.
 
 This comes to mind:
 
+https://youtu.be/ujJQyhB0dws
+
+Remembering the good ol' days,‌‌
+
+David
+
 * * *
 
 _I was listening to_ [_Progress by Ever So Blue_](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z?si=b2b4999bc7984a87&ref=davidnunez.com) _and_ [_Nostalgia by Melosense_](https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2?si=923ed0c4952848ea&ref=davidnunez.com) _on repeat as I was writing this newsletter._
+
+https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z?si=b2b4999bc7984a87
+
+https://open.spotify.com/track/0Vtwa1eRykSFTGXbDBq7d2?si=923ed0c4952848ea&nd=1&dlsi=edcd10abc7ce4dd3

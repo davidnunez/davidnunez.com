@@ -9,7 +9,7 @@ tags:
   - posts
 slug: dino-week-39-what-the-heck-is-dino-doing
 type: post
-draft: true
+draft: false
 ---
 
 _Originally Posted on DINO Studio’s Blog_

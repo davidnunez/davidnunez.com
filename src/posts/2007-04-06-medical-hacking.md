@@ -1,15 +1,15 @@
 ---
+tags:
+  - posts
 id: 65ac4ceb0e7c79000119ac0a
 title: Medical Hacking
 feature_image:
 description: PBS Frontline did a moving story about ALS (Lou Gehrig’s disease). It followed Stephen Heywood’s 5 year, rapid descent into the physically…
 date: 2007-04-06
 full-date: 2007-04-06T04:44:08.000Z
-tags:
-  - posts
 slug: medical-hacking
 type: post
-draft: true
+draft: false
 status:
 ---
 

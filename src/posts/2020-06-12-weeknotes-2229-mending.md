@@ -2,7 +2,7 @@
 tags:
   - posts
   - weeknotes
-id: 65ac4ceb0e7c79000119abb6
+id:
 title: "Weeknotes #2229 - Mending"
 feature_image:
 description: After feeling burnt out last week, I took it easy on myself these past few days.
@@ -10,9 +10,11 @@ date: 2020-06-12
 full-date: 2020-06-12T17:45:51.000-04:00
 slug: weeknotes-2229-mending
 type: post
+status: done
+draft: false
 ---
 
-After feeling [burnt out last week](https://davidnunez.com/weeknotes-2228-what-is-time-anymore/), I took it easy on myself these past few days.
+After feeling [burnt out last week](/blog/weeknotes-2228-what-is-time-anymore), I took it easy on myself these past few days.
 
 I have a pile of winter clothes with small rips to repair, socks to darn, etc. Slowly repairing them in meditative quiet, one stitch at a time. We also had our roof replaced this week to repair a leak—lots of debris and noise and human effort.
 

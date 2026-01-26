@@ -9,7 +9,7 @@ tags:
   - posts
 slug: dinos-tips-for-making-the-most-out-of-book2-unconference
 type: post
-draft: true
+draft: false
 ---
 
 _Originally Posted on DINO Studio’s blog_

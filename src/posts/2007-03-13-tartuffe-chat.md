@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119ac16
+id:
 title: Tartuffe + Chat
 feature_image:
 description: I’m providing the chat server for the Yellow Tape Construction Co. performance of I Am Not Tartuffe.
@@ -9,8 +9,8 @@ date: 2007-03-13
 full-date: 2007-03-14T00:23:20.000Z
 slug: tartuffe-chat
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 I’m providing the chat server for the Yellow Tape Construction Co. performance of [I Am Not Tartuffe](http://www.austinchronicle.com/arts/2007-03-16/456233/).

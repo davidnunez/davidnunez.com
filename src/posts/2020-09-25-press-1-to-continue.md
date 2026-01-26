@@ -10,6 +10,8 @@ date: 2020-09-25
 full-date: 2020-09-25T00:24:51.000-04:00
 slug: press-1-to-continue
 type: post
+draft: false
+episode: 7
 ---
 
 I had a meeting with a colleague a few days ago, and she requested that instead of a video chat over Zoom, we should pick up the phone and have an old-fashioned audio-only conversation like human beings.

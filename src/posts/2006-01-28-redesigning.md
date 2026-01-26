@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac45
+tags:
+  - posts
+id:
 title: Redesigning
 feature_image:
 description: Clearly, I am spending some time redesigning my site.
 date: 2006-01-28
 full-date: 2006-01-29T00:29:54.000Z
-tags:
-  - posts
 slug: redesigning
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Clearly, I am spending some time redesigning my site.

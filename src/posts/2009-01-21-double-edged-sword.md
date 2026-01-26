@@ -9,7 +9,7 @@ date: 2009-01-21
 full-date: 2009-01-21T21:26:40.000Z
 slug: double-edged-sword
 type: post
-draft: true
+draft: false
 ---
 
 I giggled out loud, had a brief moment of “Wow, I can’t believe this is what I get to do for a living right now,” and then came crashing down when I realized that it’s 330AM.  

@@ -9,7 +9,7 @@ date: 2007-08-13
 full-date: 2007-08-13T07:27:10.000Z
 slug: calligraphic-graphic-design-style
 type: post
-draft: true
+draft: false
 status:
 ---
 

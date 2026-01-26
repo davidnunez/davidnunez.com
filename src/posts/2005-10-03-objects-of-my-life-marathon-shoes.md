@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119ac4e
+id:
 title: "Objects of My Life: Marathon Shoes"
 feature_image:
 description: I ran and completed the Houston marathon a few years back in a little over 5.5 hours. It was barely too slow to count as an “official”…
@@ -9,8 +9,8 @@ date: 2005-10-03
 full-date: 2005-10-03T10:53:57.000Z
 slug: objects-of-my-life-marathon-shoes
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 I ran and completed the Houston marathon a few years back in a little over 5.5 hours. It was barely too slow to count as an “official” finish, but the blisters and delerium I felt were my proof.
@@ -31,8 +31,8 @@ It’s like being completely dead and alive at the exact same time.
 
 I bought these shoes the summer before and used them through all my training and during the marathon itself.
 
-flickr:49193685  
-flickr:49193678  
-flickr:49193668
+![](./images/49193668_5d80d13dc4_o.jpg)
+![](./images/49193685_6963d80018_o.jpg)
+![](./images/49193678_ab84b47dc0_o.jpg)
 
-<!–break–>
+

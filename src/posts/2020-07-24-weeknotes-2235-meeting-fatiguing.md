@@ -9,6 +9,7 @@ date: 2020-07-24
 full-date: 2020-07-24T16:06:28.000-04:00
 slug: weeknotes-2235-meeting-fatiguing
 type: post
+draft: false
 ---
 
 ![](./images/meeting-fatigue_o.jpg)
@@ -45,6 +46,6 @@ On to the notes:
 * Some fascinating MCN board discussions this week about the future of the organization and new models of operation. I gave an AMA people interested in joining the board with Desi Gonzalez and Yvonne Lee. I honestly think now is a very exciting time for the organization as it, along with the rest of the planet is reconfiguring. Watch this space.
 * Continued work on our upcoming Polaroid virtual exhibition.
 * Not much tweeting this week.
-* (On preview) I need to do some CSS formatting work on this blog -- especially with lists. #yakshaving
+* (On preview) I need to do some CSS formatting work on this blog -- especially with lists. `#yakshaving`
 
 Photo by [Adrien Olichon](https://unsplash.com/@adrienolichon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/meeting-fatigue?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)

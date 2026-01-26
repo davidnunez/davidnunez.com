@@ -9,7 +9,7 @@ tags:
   - posts
 slug: the-last-minute-unofficial-geek-guide-to-sxsw-interactive-2006
 type: post
-draft: true
+draft: false
 status:
 ---
 

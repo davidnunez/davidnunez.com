@@ -9,7 +9,7 @@ tags:
   - posts
 slug: dorkbot12-last-dorkbot-of-the-2007-season-arduino-sig
 type: post
-draft: true
+draft: false
 ---
 
 [dorkbot12: Last dorkbot of the 2007 season + Arduino SIG](http://dorkbotaustin.org/2007/11/05/dorkbot12-last-dorkbot-of-the-2007-season-arduino-sig/):  

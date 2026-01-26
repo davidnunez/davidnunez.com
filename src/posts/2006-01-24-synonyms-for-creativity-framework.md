@@ -1,20 +1,19 @@
 ---
-id: 65ac4ceb0e7c79000119ac46
+tags:
+  - posts
+id:
 title: synonyms for creativity framework
 feature_image:
 description: Your creative ideas and projects will evolve and devolve among various states. The broad description of how ideas turn into reusable…
 date: 2006-01-24
 full-date: 2006-01-25T04:09:18.000Z
-tags:
-  - posts
 slug: synonyms-for-creativity-framework
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Your creative ideas and projects will evolve and devolve among various states. The broad description of how ideas turn into reusable results is what I’m calling my “creativity framework.”  
-<!–break–>
 
 * Live = observe = collect facts = actively experience = holistic
 * Wonder = ask = probe = question = hypothesize

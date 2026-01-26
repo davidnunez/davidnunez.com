@@ -9,7 +9,7 @@ tags:
   - posts
 slug: applescript-to-import-nnw-smart-folder-into-yojimbo
 type: post
-draft: true
+draft: false
 status:
 ---
 

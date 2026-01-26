@@ -9,6 +9,7 @@ date: 2020-07-10
 full-date: 2020-07-10T15:40:44.000-04:00
 slug: weeknotes-2233-marking-time
 type: post
+draft: false
 ---
 
 ![](./images/2020-07-10-weeknotes_o.png)
@@ -18,5 +19,5 @@ type: post
 - Worked a bit on our upcoming online offering related to our Polaroid exhibit that we had to shutter.
 - Wrote some language to contribute to the museum's report to the University's President & gave feedback about adjusting our strategic plan to account for the current calamity.
 - We kicked off the exhibition development process for a few more galleries, including one about biotech, of which I know nothing.
-	> I'm now in a meeting about our biotech exhibition we're planning for our new museum, and I'm finding myself struggling to keep up with the jargon & jotting down phrases to look up later. This is where my job becomes a luxury. [#AlwaysBeLearning](https://twitter.com/hashtag/AlwaysBeLearning?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) — David Nuñez (@davidnunez) [July 8, 2020](https://twitter.com/davidnunez/status/1280920580108124161?ref_src=twsrc%5Etfw&ref=davidnunez.com)
+	> I'm now in a meeting about our biotech exhibition we're planning for our new museum, and I'm finding myself struggling to keep up with the jargon & jotting down phrases to look up later. This is where my job becomes a luxury. [`#AlwaysBeLearning`](https://twitter.com/hashtag/AlwaysBeLearning?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) — David Nuñez (@davidnunez) [July 8, 2020](https://twitter.com/davidnunez/status/1280920580108124161?ref_src=twsrc%5Etfw&ref=davidnunez.com)
 - I spent a lot of the past long weekend working on a reboot of my personal website; the goal was to get _something_ online by the end of the break. I did that, but it's not quite "launched." I have an essay in the works about why in the world I would attempt yet another blog reboot.

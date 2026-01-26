@@ -10,6 +10,8 @@ date: 2020-10-16
 full-date: 2020-10-16T04:20:51.000-04:00
 slug: not-so-quiet-please
 type: post
+draft: false
+episode: 10
 ---
 
 Dak Prescott, the 27-year-old quarterback for NFL's Dallas Cowboys, suffered an especially gruesome ankle injury last Sunday. I don't recommend looking it up. Suffice it to say, his season is over, and his career as a professional athlete forever altered.
@@ -26,7 +28,7 @@ Between lost ticket and concession sales at venues and lost revenue due to cance
 
 Last Sunday's game resumed after Dak went to the locker rooms, and Twitter filled with well-wishes to Dak from heartbroken fans and non-fans alike. We saw, instantly, replay footage of the accident, his emotional departure from the stadium, and even his arrival at the hospital. His brother posted a selfie before the quarterback entered emergency surgery. This rapid delivery of additional content is another example of how much of a [second-screen experience televised sports have become](https://journals.humankinetics.com/view/journals/ijsc/9/4/article-p424.xml?ref=davidnunez.com).
 
-> God is good, and he’ll be back STRONGER than ever. I FUCKING guarante3 IT. Let’s go [@dak](https://twitter.com/dak?ref_src=twsrc%5Etfw&ref=davidnunez.com) continue to walk by [#FAITH](https://twitter.com/hashtag/FAITH?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) & I’ll make sure you continue to [#FIGHT](https://twitter.com/hashtag/FIGHT?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) [pic.twitter.com/0SWqGJ937h](https://t.co/0SWqGJ937h?ref=davidnunez.com)
+> God is good, and he’ll be back STRONGER than ever. I FUCKING guarante3 IT. Let’s go [@dak](https://twitter.com/dak?ref_src=twsrc%5Etfw&ref=davidnunez.com) continue to walk by [`#FAITH`](https://twitter.com/hashtag/FAITH?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) & I’ll make sure you continue to [`#FIGHT`](https://twitter.com/hashtag/FIGHT?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) [pic.twitter.com/0SWqGJ937h](https://t.co/0SWqGJ937h?ref=davidnunez.com)
 >
 > — Tad Prescott (@86Prescott) [October 11, 2020](https://twitter.com/86Prescott/status/1315439802305708032?ref_src=twsrc%5Etfw&ref=davidnunez.com)
 

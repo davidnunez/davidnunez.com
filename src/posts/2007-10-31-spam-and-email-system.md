@@ -9,7 +9,7 @@ tags:
   - posts
 slug: spam-and-email-system
 type: post
-draft: true
+draft: false
 ---
 
 I think I have finally nailed down a reasonable email handling / spam fighting strategy after about a year of tweaking.

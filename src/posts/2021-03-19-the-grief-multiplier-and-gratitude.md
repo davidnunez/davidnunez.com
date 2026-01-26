@@ -2,7 +2,7 @@
 tags:
   - posts
   - output/newsletter
-id: 65ac4ceb0e7c79000119abc4
+id:
 title: The Grief Multiplier and Gratitude
 feature_image:
 description: Thank you for the overwhelming feedback on this essay. I had a couple of good cries while writing it and I'm crying as I read all of your…
@@ -10,6 +10,9 @@ date: 2021-03-19
 full-date: 2021-03-19T17:23:00.000-04:00
 slug: the-grief-multiplier-and-gratitude
 type: post
+status: done
+draft: false
+episode: 18
 ---
 
 _Thank you for the overwhelming feedback on this essay. I had a couple of good cries while writing it and I'm crying as I read all of your kind words in return. I'm doing my best to write back to every one of your letters. It is truly a gift to know you are on the other side of the screen._
@@ -62,7 +65,7 @@ We hug goodbye for the last time.
 
 As I write this, about 540,000 people have died from COVID-19 in the United States. A sociologist has come up with an idea called the "[bereavement multiplier](https://www.pnas.org/content/117/30/17695.abstract?ref=davidnunez.com)." It says, on average, there are about nine close mourners for every person that dies (i.e., immediate family, grandchildren, etc.). This metric means that on top of the 540,000 casualties, COVID-19 death directly impacted an additional 4,860,000 people.
 
-People are still dying by the thousands. Many more people are crying for the dead, and I am one of them. #TouchedByCOVID is not a club I ever wanted to join.
+People are still dying by the thousands. Many more people are crying for the dead, and I am one of them. `#TouchedByCOVID` is not a club I ever wanted to join.
 
 Earlier this year, I watched with relief as we persevered through an ugly stain in my country's history, and adults finally moved back into the White House. For the first time in a long time, I felt a small glimpse of calm and reason. I had hope, finally, that serious people would pay respect to the miracles of science. I might get through this thing with just a couple of bumps and bruises.
 
@@ -76,13 +79,7 @@ I can never be with them again, like before the pandemic. One of us is now missi
 
 That night I posted a tweet about my brother. I'm not sure why I did this. I think it was out of a desperate need for some faint hint of normalcy. It turns out in a pandemic, Twitter and Zoom have become my new normal. (I will need to interrogate this eventually).
 
-> Been so busy telling people that I was sorry for their loss... wasn’t prepared for my own.  
-> 
-> My brother died this weekend due to complications related to [#COVID](https://twitter.com/hashtag/COVID?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com)\-19.  
-> 
-> Numb, devastated, profoundly enraged...
->
-> — David Nuñez (@davidnunez) [February 1, 2021](https://twitter.com/davidnunez/status/1356062440551809024?ref_src=twsrc%5Etfw&ref=davidnunez.com)
+https://twitter.com/davidnunez/status/1356062440551809024?ref_src=twsrc%5Etfw&ref=davidnunez.com
 
 I was quickly overwhelmed with "like" notifications from internet friends and strangers. People from around the world were quick to offer support in the replies. Friends I had just barely met during the pandemic were reaching out privately and doing everything they could to cheer me up. It was such a comfort to scroll through the thread while adding my own "likes" in return, one tweet after another. For the first time, I understood and appreciated Twitter's decision to represent "likes" with little hearts. ♥️
 
@@ -130,6 +127,8 @@ I, too, have a bit of hope for a return to normalcy, though bittersweet. I can't
 >
 > — David Nuñez (@davidnunez) [March 18, 2021](https://twitter.com/davidnunez/status/1372369161754603520?ref_src=twsrc%5Etfw&ref=davidnunez.com)
 
+https://twitter.com/davidnunez/status/1372369161754603520?ref_src=twsrc%5Etfw&ref=davidnunez.com
+
 I'm in pain, of course, and I know I will be for a very long time. People tell me that it will be like a roller coaster. Some days will be better than others. It doesn't ever really go away, but I will learn to live with it. It will get better. I will adjust to the new normal.
 
 I hear the same platitudes about COVID-19, I should point out.
@@ -138,7 +137,7 @@ For now, I've started a daily morning practice. It's simple, and it's been const
 
 As soon as I wake up, I open up my phone or computer and type out the first three things that come to mind for which I am grateful. That's it. Three things. Gratitude. Every morning, the moment I wake up. It takes less than 15 seconds. Sometimes it's hard, but then I just write "I'm thankful for being awake right now" three times. Here are some others:
 
-> I can take classes online; lauren picking up tacos for lunch; technological tools that can let me do my work anywhere. thankful for having a surplus of money to save for gifting; family; recipe book from aunt Pauline; cousin Sally who picked us up from the hotel in the ice storm; Lauren knowing exactly how to make me laugh; greek corner and french fries for lunch; running water; iPad; television shows via streaming services; eyesight; I can reach out to other people around the world; #PTYA; joggers; I can make chocolate chip cookies with minimal effort; Lauren; a good cup of coffee; I can choose to hide or show my grumpiness; autonomy in my day job; heat in our condo; trying to make gorditas; being able to take long hot showers; daily walks; I know how to read; sunshine; rabbit holes
+> I can take classes online; lauren picking up tacos for lunch; technological tools that can let me do my work anywhere. thankful for having a surplus of money to save for gifting; family; recipe book from aunt Pauline; cousin Sally who picked us up from the hotel in the ice storm; Lauren knowing exactly how to make me laugh; greek corner and french fries for lunch; running water; iPad; television shows via streaming services; eyesight; I can reach out to other people around the world; `#PTYA`; joggers; I can make chocolate chip cookies with minimal effort; Lauren; a good cup of coffee; I can choose to hide or show my grumpiness; autonomy in my day job; heat in our condo; trying to make gorditas; being able to take long hot showers; daily walks; I know how to read; sunshine; rabbit holes
 
 This regular gratitude reminder feels like building a safety net. It's becoming a well of hope I can dip into to practice moving forward. In that way, it also is like a prayer or a touchstone. The notes continue to compound as I write more of them. It will be my recovery and healing multiplier.
 

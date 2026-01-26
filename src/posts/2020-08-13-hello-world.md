@@ -2,7 +2,7 @@
 tags:
   - posts
   - output/newsletter
-id: 65ac4ceb0e7c79000119aba5
+id:
 title: Hello, World
 feature_image:
 description: Let's talk about source code. Here's a program.
@@ -10,6 +10,10 @@ date: 2020-08-13
 full-date: 2020-08-13T16:55:51.000-04:00
 slug: hello-world
 type: post
+status: done
+draft: false
+eleventyExcludeFromCollections:
+episode: 1
 ---
 
 Let's talk about source code. Here's a program.
@@ -224,6 +228,8 @@ I met my artist/programmer friend, [Sophia Brueckner](https://www.sophiabrueckne
 Sophia is an Assistant Professor at the Stamps School of Art & Design, University of Michigan, Ann Arbor, and current Artist in Residence at Bell Labs, the birthplace of "hello, world."
 
 Her piece, "[Singing in Code](https://vimeo.com/24433402?ref=davidnunez.com)," is about a programmer's cyborganic relationship with the software they write.
+
+https://vimeo.com/24433402?ref=davidnunez.com
 
 She says a programmer needs to "think like a computer" to achieve the flow state required to translate ideas into software.
 

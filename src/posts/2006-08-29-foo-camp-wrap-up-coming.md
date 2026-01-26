@@ -9,7 +9,7 @@ tags:
   - posts
 slug: foo-camp-wrap-up-coming
 type: post
-draft: true
+draft: false
 status:
 ---
 

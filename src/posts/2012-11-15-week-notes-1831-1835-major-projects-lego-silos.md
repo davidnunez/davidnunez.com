@@ -9,7 +9,7 @@ date: 2012-11-15
 full-date: 2012-11-16T03:56:00.000Z
 slug: week-notes-1831-1835-major-projects-lego-silos
 type: post
-draft: true
+draft: false
 ---
 
 ![](./images/robot_dino1.jpg)

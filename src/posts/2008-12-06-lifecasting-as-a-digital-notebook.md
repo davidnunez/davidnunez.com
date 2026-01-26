@@ -9,7 +9,7 @@ date: 2008-12-06
 full-date: 2008-12-06T09:11:17.000Z
 slug: lifecasting-as-a-digital-notebook
 type: post
-draft: true
+draft: false
 ---
 
 I had a meeting this morning which I think will help seed a nice, grand project over the next year. We discussed creating an augmented workspace to be used in a laboratory setting. This is the brainchild of [Jason Morrison](http://jayunit.net/) and [Mac Cowell](http://web.archive.org/web/20130531160843/http://cis-action.com/) of [diybio.org](http://diybio.org). (see the Seed Magazine [article featuring Mac and his work](http://www.seedmagazine.com/news/2008/12/the_biohacking_hobbyist.php))

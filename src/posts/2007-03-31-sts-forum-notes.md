@@ -9,7 +9,7 @@ date: 2007-03-31
 full-date: 2007-03-31T10:07:33.000Z
 slug: sts-forum-notes
 type: post
-draft: true
+draft: false
 status:
 ---
 

@@ -9,7 +9,7 @@ tags:
   - posts
 slug: testing-lightbox-plugin
 type: post
-draft: true
+draft: false
 status:
 ---
 

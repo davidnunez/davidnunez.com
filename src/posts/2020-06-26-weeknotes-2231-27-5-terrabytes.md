@@ -73,5 +73,5 @@ html
 .zip
 ```
 
-* I also learned that you could mount EBS drives for lambda functions to share. Game Changer for handling large image conversion. #nerd
+* I also learned that you could mount EBS drives for lambda functions to share. Game Changer for handling large image conversion. `#nerd`
 * I'm excited to do a big batch of writing this weekend. I've spent the past few weeks collecting notes and references; I'm trying the bottom-up networked thinking approach to essay writing, and I have enough of a critical mass of research ready to start banging out "content."

@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119ac55
+id:
 title: A Creative Framework
 feature_image:
 description: I was flipping through some old idea journals and I found this little diagram I drew, arrogantly titled, “David’s Guide To Cultivating…

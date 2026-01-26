@@ -9,7 +9,7 @@ tags:
   - posts
 slug: manchester-airport-has-free-public-wireless
 type: post
-draft: true
+draft: false
 ---
 
 It’s not really on the way to or from anything, but FYI: Manchester, NH airport has free, public wireless (not open – one nag/term page to click through).

@@ -2,7 +2,7 @@
 tags:
   - posts
   - output/newsletter
-id: 65ac4ceb0e7c79000119abc5
+id:
 title: Happy New Year? If you say so.
 feature_image:
 description: Hello friend,
@@ -10,6 +10,9 @@ date: 2021-01-08
 full-date: 2021-01-08T12:56:58.000-05:00
 slug: happy-new-year-if-you-say-so
 type: post
+episode: 17
+draft: false
+status: done
 ---
 
 Hello friend,  
@@ -52,13 +55,8 @@ Then we get bored.
 
 Instead of goals, I asked on Twitter if anybody had any theme words for the year.
 
-> Do you have personal "theme words" for the year (in the context of new year resolutions / planning)?  
-> 
-> Pick the \_one\_ word or phrase that will be your north star for 2021.  
-> 
-> A thread ⬇️
->
-> — David Nuñez (@davidnunez) [December 22, 2020](https://twitter.com/davidnunez/status/1341403937103110148?ref_src=twsrc%5Etfw&ref=davidnunez.com)
+
+https://twitter.com/davidnunez/status/1341403937103110148?ref_src=twsrc%5Etfw&ref=davidnunez.com
 
 A lot of responses were very much about "_survival"_ and "_resilience_." People were permitting themselves to embrace "_stability"_ and "_perseverance_."  There is no right answer, of course. A theme word is perfectly valid as soon as you pick it for yourself.  
 

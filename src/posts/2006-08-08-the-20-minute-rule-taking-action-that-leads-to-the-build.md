@@ -9,7 +9,7 @@ date: 2006-08-08
 full-date: 2006-08-08T11:31:24.000Z
 slug: the-20-minute-rule-taking-action-that-leads-to-the-build
 type: post
-draft: true
+draft: false
 status:
 ---
 

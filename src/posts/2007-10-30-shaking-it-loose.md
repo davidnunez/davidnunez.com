@@ -9,7 +9,7 @@ date: 2007-10-30
 full-date: 2007-10-30T08:05:27.000Z
 slug: shaking-it-loose
 type: post
-draft: true
+draft: false
 ---
 
 Returning to a pre-sxsw template for davidnunez.com… finally completing the mephisto to wordpress migration.

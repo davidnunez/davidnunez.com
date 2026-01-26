@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac27
+tags:
+  - posts
+id:
 title: "Wired News: The Age of Cheap, Plastic Robots"
 feature_image:
 description: As a robot enthusiast and, dare I say, practitioner, there are three trends in consumer/entertainment robotics that I’m tracking and which…
 date: 2006-08-15
 full-date: 2006-08-15T21:44:45.000Z
-tags:
-  - posts
 slug: wired-news-the-age-of-cheap-plastic-robots
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 As a robot enthusiast and, dare I say, practitioner, there are three trends in consumer/entertainment robotics that I’m tracking and which have opportunities for much deeper exploration.
@@ -27,8 +27,4 @@ As a robot enthusiast and, dare I say, practitioner, there are three trends in c
 
 _(via [weblogsky](http://feeds.feedburner.com/~r/Weblogsky/~3/13367715/001008.html))_
 
-<!– technorati tags start –>
 
-Technorati Tags: robot, robotics
-
-<!– technorati tags end –>

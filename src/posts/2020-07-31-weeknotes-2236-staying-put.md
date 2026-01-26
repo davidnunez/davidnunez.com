@@ -9,6 +9,7 @@ tags:
   - posts
 slug: weeknotes-2236-staying-put
 type: post
+draft: false
 ---
 
 MIT is, rightfully, addressing physical campus access with a considered and careful approach. Most staff members are unable to return to our campus. People authorized to be onsite need to complete medical testing and daily attestation for tracking.

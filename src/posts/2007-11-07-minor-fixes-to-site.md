@@ -9,7 +9,7 @@ date: 2007-11-07
 full-date: 2007-11-07T10:22:03.000Z
 slug: minor-fixes-to-site
 type: post
-draft: true
+draft: false
 ---
 
 Some minor wordpress tweaks

@@ -9,6 +9,7 @@ date: 2020-08-07
 full-date: 2020-08-07T16:10:40.000-04:00
 slug: weeknotes-2237-the-world-in-fuzzy-pixels
 type: post
+draft: false
 ---
 ![](./images/siora-photography-xxYEWf9oLRM-unsplash.jpg)
 
@@ -34,13 +35,13 @@ This week felt covered by a bit of a fog. Let's see if I can cut through it a bi
 * I'm pretty confident I'm burnt out. My sleep has been pretty awful this week. I'm going to scan ahead and plan for an extra lengthy break later this month.
 * Some favorite tweets:
 
-> “Cut out disinformation. Seek out actual experts. Do your own critical thinking, and don’t follow just because you like the source or feel alignment with their politics. Amplify voices worth amplifying, and don’t give lies more oxygen.” [#reality](https://twitter.com/hashtag/reality?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) [https://t.co/yC99L3ueg9](https://t.co/yC99L3ueg9?ref=davidnunez.com)
+> “Cut out disinformation. Seek out actual experts. Do your own critical thinking, and don’t follow just because you like the source or feel alignment with their politics. Amplify voices worth amplifying, and don’t give lies more oxygen.” [`#reality`](https://twitter.com/hashtag/reality?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com) [https://t.co/yC99L3ueg9](https://t.co/yC99L3ueg9?ref=davidnunez.com)
 >
 > — David Nuñez (@davidnunez) [August 6, 2020](https://twitter.com/davidnunez/status/1291410205641773057?ref_src=twsrc%5Etfw&ref=davidnunez.com)
 
 > "Merrily Merrily Merrily Merrily... Life is but a dream" 🎶  
 > 
-> Oh. No. They've been trying to warn us this entire time. [#simulation](https://twitter.com/hashtag/simulation?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com)
+> Oh. No. They've been trying to warn us this entire time. [`#simulation`](https://twitter.com/hashtag/simulation?src=hash&ref_src=twsrc%5Etfw&ref=davidnunez.com)
 >
 > — David Nuñez (@davidnunez) [August 6, 2020](https://twitter.com/davidnunez/status/1291366599757312000?ref_src=twsrc%5Etfw&ref=davidnunez.com)
 

@@ -10,6 +10,8 @@ date: 2020-11-13
 full-date: 2020-11-13T12:45:36.000-05:00
 slug: choose-your-own-adventure
 type: post
+episode: 14
+draft: false
 ---
 
 Hello friend,

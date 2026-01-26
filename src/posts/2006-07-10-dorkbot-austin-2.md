@@ -9,7 +9,7 @@ tags:
   - posts
 slug: dorkbot-austin-2
 type: post
-draft: true
+draft: false
 status:
 ---
 

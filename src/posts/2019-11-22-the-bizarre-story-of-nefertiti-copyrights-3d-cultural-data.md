@@ -1,14 +1,16 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119abb7
+id:
 title: The Bizarre Story of Nefertiti, Copyrights & 3D cultural data
 feature_image:
 description: "I've been following with keen interest this story re: 3D scans of an Egyptian bust at the Neues Museum in Berlin."
 date: 2019-11-22
 full-date: 2019-11-22T13:58:10.000-05:00
-slug: the-bizarre-story-of-nefertiti-copyrights-3d-cultural-data
+slug: the-bizarre-story-of-nefertiti-copyrights-and-3d-cultural-data
 type: post
+status: done
+draft: false
 ---
 ![](./images/02NEFERTITI1-jumbo_o-1.jpg)
 
@@ -24,9 +26,9 @@ This week, another artist, [Cosmo Wenman](https://twitter.com/CosmoWenman?ref=da
 
 The museum did release the data with a major modification: they added copyright information to the model, itself.
 
-![](./images/Superhuman-2019-11-22-13-40-39_o-1.png)
+![test](./images/Superhuman-2019-11-22-13-40-39_o-1.png 'Detail of copyright claim and Creative Commons license digitally carved into the scan of the bust of Nefertiti. Cosmo Wenman via Slate article')
 
-**Detail of copyright claim and Creative Commons license digitally carved into the scan of the bust of Nefertiti. Cosmo Wenman via Slate article**
+
 
 This is problematic because not only are they altering this cultural data, but it's also not actually clear who (if anyone) has the right to assert copyright in this case.
 

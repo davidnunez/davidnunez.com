@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 68a725a2cf3e94000109e74f
+id:
 title: "Hearthless: How Streaming Stole Our Shared Fires"
 feature_image:
 description: Late at night, at a time predestined by the newspaper's printed TV Guide, the station would sign off.
@@ -9,6 +9,8 @@ date: 2025-08-21
 full-date: 2025-08-21T10:07:23.000-04:00
 slug: hearthless-how-streaming-stole-our-shared-fires
 type: post
+status: done
+draft: false
 ---
 ![](./images/image-15-1.png)
 
@@ -23,6 +25,8 @@ There was a distinct snap, crackle, and high-pitched hum as we flicked the mecha
 
 The electronic embers were mesmerizing. If you stared at them long enough, patterns seemed to snap into place, like an [autostereogram](https://en.wikipedia.org/wiki/Autostereogram?ref=davidnunez.com). But instead of a 3D shark, the image resolved into an ephemeral promise: soon we would join the community of children around the country watching Hot Wheels commercials interrupted by scenes of Bugs Bunny and Voltron.
 
+https://www.youtube.com/watch?v=efieBr2RCoA
+
 Media scholars Daniel Dayan and Elihu Katz once described live broadcasts as “[world rituals](https://www.google.com/books/edition/Media_Events/Z64eoZiik5wC?hl=en&ref=davidnunez.com)," synchronizing a society or even a planet. Television finales, holiday specials, and moon landings were not just programs; they were appointments with a collective consciousness.
 
 And they waited for no one. If you wandered to the kitchen for a snack during the yearly broadcast of [A Charlie Brown Christmas](https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas?ref=davidnunez.com), you returned to find Snoopy mid-dance, the moment already happening.
@@ -34,6 +38,8 @@ Frame from __A Charlie Brown Christmas__
 When the whole country tuned in together, a show could feel like a holiday. Scarcity gave those hours a kind of warmth; they were communal and fleeting, woven into memory not because they were permanent but because they could not be repeated.
 
 Sometimes those shared flames [burned us all at once](https://www.youtube.com/watch?v=6PXORQE5-CY&ab_channel=CBSSundayMorning&ref=davidnunez.com), and they left deep scars.
+
+https://www.youtube.com/watch?v=6PXORQE5-CY
 
 Today, we casually drop endless sparks into our pockets. Our iPhones conjure shows and films, waiting to light on demand with a flick of our thumb. Streaming platforms, like Netflix, are the accelerant. By June 2025, streaming accounted for nearly half of all U.S. television viewing, while broadcast dropped to a historic low of 18.5% ([Nielsen](https://cordcuttersnews.com/broadcast-tv-viewership-hits-record-low-18-5-as-streaming-grows-nielsen-reports?ref=davidnunez.com)). The library seems infinite, the archive bottomless.
 

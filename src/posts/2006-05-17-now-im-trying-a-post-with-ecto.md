@@ -9,7 +9,7 @@ tags:
   - posts
 slug: now-im-trying-a-post-with-ecto
 type: post
-draft: true
+draft: false
 status:
 ---
 

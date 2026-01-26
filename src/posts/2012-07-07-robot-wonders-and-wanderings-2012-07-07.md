@@ -9,7 +9,7 @@ date: 2012-07-07
 full-date: 2012-07-07T17:19:53.000Z
 slug: robot-wonders-and-wanderings-2012-07-07
 type: post
-draft: true
+draft: false
 ---
 
 1. [Blinky™ on Vimeo](http://vimeo.com/21216091) – Horror short film about a robot helper at home – things go wrong. Horribly wrong. I thought the robot’s smile was an especially fantastic design touch.

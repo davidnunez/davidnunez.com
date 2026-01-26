@@ -9,7 +9,7 @@ tags:
   - posts
 slug: what-to-do-what-to-do
 type: post
-draft: true
+draft: false
 status:
 ---
 

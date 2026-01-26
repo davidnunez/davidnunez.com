@@ -1,15 +1,15 @@
 ---
+tags:
+  - posts
 id: 65ac4ceb0e7c79000119ac26
 title: Austin Blogger Meetup tonight
 feature_image:
 description: "There is another of the monthly austinbloggers meetups tonight:"
 date: 2006-08-16
 full-date: 2006-08-16T05:12:19.000Z
-tags:
-  - posts
 slug: austin-blogger-meetup-tonight
 type: post
-draft: true
+draft: false
 status:
 ---
 

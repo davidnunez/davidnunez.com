@@ -10,6 +10,8 @@ date: 2020-09-10
 full-date: 2020-09-10T23:51:51.000-04:00
 slug: freediving-into-a-spreadsheet
 type: post
+draft: false
+episode: 5
 ---
 
 Dan Bricklin's professors at the Harvard Business School thought he was wasting his time creating an electronic substitute for the paper ledgers he and his classmates were using to complete their coursework. In the 1970s, data entry was for secretarial pool transcription and the technicians keeping the mainframe oiled and calculating. Harvard graduates shouldn't sully their hands in such details.

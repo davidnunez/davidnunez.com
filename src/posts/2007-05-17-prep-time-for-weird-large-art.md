@@ -9,7 +9,7 @@ tags:
   - posts
 slug: prep-time-for-weird-large-art
 type: post
-draft: true
+draft: false
 status:
 ---
 

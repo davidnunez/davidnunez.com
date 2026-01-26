@@ -9,7 +9,7 @@ date: 2006-04-22
 full-date: 2006-04-22T22:29:00.000Z
 slug: maker-faire
 type: post
-draft: true
+draft: false
 status:
 ---
 

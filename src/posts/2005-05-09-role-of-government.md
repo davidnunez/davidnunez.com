@@ -11,6 +11,7 @@ slug: role-of-government
 type: post
 draft: true
 status: done
+eleventyExcludeFromCollections: true
 ---
 
 I think government has a role, but it’s limited to 3 things:

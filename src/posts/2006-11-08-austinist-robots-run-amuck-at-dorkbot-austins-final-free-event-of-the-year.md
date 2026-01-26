@@ -9,7 +9,7 @@ tags:
   - posts
 slug: austinist-robots-run-amuck-at-dorkbot-austins-final-free-event-of-the-year
 type: post
-draft: true
+draft: false
 status:
 ---
 

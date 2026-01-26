@@ -2,7 +2,7 @@
 tags:
   - posts
   - output/newsletter
-id: 65ac4ceb0e7c79000119abcb
+id:
 title: 100 Days and a Restart
 feature_image:
 description: Today we launched a new MIT Museum website, and started our 100 day countdown to the opening of the Museum in its new building at Kendall…
@@ -10,8 +10,9 @@ date: 2022-06-24
 full-date: 2022-06-24T17:48:37.000-04:00
 slug: 100-days-and-a-restart
 type: post
-status:
-draft:
+status: done
+draft: false
+episode: 21
 ---
 
 ![](./images/mitmuseum.png)

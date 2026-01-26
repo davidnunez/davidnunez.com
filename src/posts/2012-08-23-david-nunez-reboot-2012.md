@@ -9,7 +9,7 @@ date: 2012-08-23
 full-date: 2012-08-23T18:54:00.000Z
 slug: david-nunez-reboot-2012
 type: post
-draft: true
+draft: false
 ---
 
 I am beginning a transition this week. It’s been a long time coming, actually, but there will be a flurry of activity in the upcoming weeks, and I wanted to be sure to capture these moments.

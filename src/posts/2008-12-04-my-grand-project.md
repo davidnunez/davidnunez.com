@@ -1,15 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119abf3
+tags:
+  - posts
+id:
 title: My grand project
 feature_image:
 description: I moved to Boston right after July 4th of this year and have had the opportunity to introduce myself to lots and lots of new faces.
 date: 2008-12-04
 full-date: 2008-12-05T03:35:41.000Z
-tags:
-  - posts
 slug: my-grand-project
 type: post
-draft: true
+draft: false
+status: done
 ---
 
 I moved to Boston right after July 4th of this year and have had the opportunity to introduce myself to lots and lots of new faces.
@@ -30,9 +31,7 @@ The only thing that matters is, “What have you done lately that’s remarkable
 
 Cal Newport [defines Grand Projects](http://www.calnewport.com/blog/?p=224) as:
 
-\[su\_quote cite=”Cal Newport”\]any project that when explained to someone for the first time is likely to elicit a response of “wow!’”
-
-\[/su\_quote\]
+> any project that when explained to someone for the first time is likely to elicit a response of “wow!’”
 
 There is a huge difference in multitasking because you are disorganized and consciously multitasking so that you accomplish interesting grand projects.
 

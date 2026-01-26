@@ -10,6 +10,8 @@ date: 2020-09-03
 full-date: 2020-09-03T16:22:51.000-04:00
 slug: happy-upgrade-day
 type: post
+draft: false
+episode: 4
 ---
 
 Happy Upgrade Day.

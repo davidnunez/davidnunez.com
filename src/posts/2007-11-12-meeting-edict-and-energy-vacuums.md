@@ -9,7 +9,7 @@ tags:
   - posts
 slug: meeting-edict-and-energy-vacuums
 type: post
-draft: true
+draft: false
 ---
 
 I have a new meeting edict.

@@ -9,7 +9,7 @@ date: 2007-07-21
 full-date: 2007-07-21T16:23:32.000Z
 slug: what-goes-in-my-blog
 type: post
-draft: true
+draft: false
 status:
 ---
 

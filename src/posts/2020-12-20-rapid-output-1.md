@@ -1,7 +1,7 @@
 ---
 tags:
   - posts
-id: 65ac4ceb0e7c79000119abc3
+id:
 title: Rapid Output 1
 feature_image:
 description: This is an experimental blog post to test what it would be like to free write on my iPhone
@@ -9,6 +9,8 @@ date: 2020-12-20
 full-date: 2020-12-20T23:43:56.000-05:00
 slug: rapid-output-1
 type: post
+status: done
+draft: false
 ---
 
 ![](./images/photo-1484807352052-23338990c6c6.webp)

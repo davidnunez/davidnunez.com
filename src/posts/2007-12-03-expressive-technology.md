@@ -9,7 +9,7 @@ tags:
   - posts
 slug: expressive-technology
 type: post
-draft: true
+draft: false
 ---
 
 From an email I just sent out:

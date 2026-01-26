@@ -1,16 +1,16 @@
 ---
-id: 65ac4ceb0e7c79000119ac04
+tags:
+  - posts
+id:
 title: Converting from Mephisto to Wordpress
 feature_image:
 description: Finished pulling in old entries to wordpress.
 date: 2007-07-21
 full-date: 2007-07-21T11:28:11.000Z
-tags:
-  - posts
 slug: converting-from-mephisto-to-wordpress
 type: post
-draft: true
-status:
+draft: false
+status: done
 ---
 
 Finished pulling in old entries to wordpress.

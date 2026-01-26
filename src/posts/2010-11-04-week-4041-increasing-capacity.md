@@ -9,7 +9,7 @@ tags:
   - posts
 slug: week-4041-increasing-capacity
 type: post
-draft: true
+draft: false
 ---
 
 _Originally Posted on DINO Studio’s blog_

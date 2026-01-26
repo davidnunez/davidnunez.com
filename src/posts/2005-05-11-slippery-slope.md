@@ -11,6 +11,7 @@ slug: slippery-slope
 type: post
 draft: true
 status: done
+eleventyExcludeFromCollections: true
 ---
 
 Here you go: [link](http://web.archive.org/web/20101201055850/http://schliefkevision.com/austhin/index.htm)

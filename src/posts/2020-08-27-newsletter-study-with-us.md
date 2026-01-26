@@ -10,6 +10,8 @@ date: 2020-08-27
 full-date: 2020-08-27T16:20:51.000-04:00
 slug: newsletter-study-with-us
 type: post
+draft: false
+episode: 3
 ---
 
 I recently joined a global study group.
